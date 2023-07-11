@@ -58,7 +58,7 @@
                  padding-left: 250px;
                  padding-right: 250px;
                  margin-top: 50px;
-                 width: 1920px;
+                 width: 4520px;
                  height: 867px;
              }
              
@@ -163,14 +163,13 @@
              /*section three*/
              
              .three {
-                 width: 1440px;
+                 width: 4440px;
                  height: 20px;
                  border-radius: 8px;
                  background: rgba(39, 39, 39, 0.05);
                  display: flex;
                  justify-content: space-between;
                  padding: 240px;
-                 margin-left: 240px;
              }
              
              .four {
@@ -228,10 +227,11 @@
              }
              
              .five {
-                 width: 1920px;
+                 width: 2920px;
                  height: 467px;
                  background: #FFF;
-                 padding: 240px;
+                 padding-left: 900px;
+                 margin: 140px;
              }
              
              .ins {
@@ -256,6 +256,7 @@
                  line-height: 30px;
                  padding-left: 663px;
                  padding-right: 663px;
+                 margin-left: 500px;
              }
              
              .meg2 {
@@ -264,11 +265,12 @@
              }
              
              .six {
-                 width: 2040px;
+                 width: 4840px;
                  height: 349px;
                  border-radius: 8px;
                  background: url(Rectangle\ 9.png), lightgray 0px -203.444px / 100% 213.755% no-repeat;
-                 margin: 240px 240px 0px 240px;
+                 margin: 70px;
+                 padding-top: 10px;
              }
              
              .email {
@@ -313,10 +315,12 @@
              }
              
              .foot {
-                 width: 1922px;
+                 width: 5000px;
                  height: 449px;
                  background: #111010;
-                 margin: 240px;
+                 margin: 0px;
+                 margin-right: 0px;
+                 padding: 140px;
              }
              
              .fav {
@@ -325,9 +329,8 @@
              
              .tfx {
                  font-family: Lato;
-                 font-size: 48px;
-                 font-weight: 800;
-                 padding-left: 831px;
+                 text-align: center;
+                 margin-left: 0px;
              }
              
              .rdj {
@@ -336,23 +339,14 @@
              
              .z2 {
                  display: flex;
-                 width: 625px;
                  flex-direction: column;
                  color: rgba(255, 255, 255, 0.90);
                  text-align: center;
                  font-family: Lato;
-                 font-size: 18px;
-                 font-weight: 400;
-                 line-height: 30px;
-                 padding-left: 648px;
              }
              
              .s3 {
                  color: rgba(255, 255, 255, 0.40);
                  text-align: center;
                  font-family: Lato;
-                 font-size: 16px;
-                 font-style: normal;
-                 font-weight: 400;
-                 line-height: normal;
              }
